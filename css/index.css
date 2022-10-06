@@ -1,0 +1,60 @@
+header{
+    height: 10vh;
+    width: 100%;
+    background: black;
+    color: white;
+}
+
+#consulta{
+    height: 10vh;
+    width: 14vw;
+    background: green;
+    border-radius: 40px;
+    color: white;
+}
+
+#ingreso{
+    height: 10vh;
+    width: 12vw;
+    border-radius: 40px;
+    background: beige;
+    margin-right: 15vw;
+    margin-left: 15vw;
+}
+
+#retiro{
+    height: 10vh;
+    width: 12vw;
+    background: red;
+    border-radius: 40px;
+    color: white;
+}
+
+
+#consultaSaldo{
+    display: none;
+}
+
+#deposito{
+    display: none;
+}
+
+#retirar{
+    display: none;
+}
+
+#alerta{
+    display: none;
+}
+
+#alerta2{
+    display: none;
+}
+
+#succes{
+    display: none;
+}
+
+#success2{
+    display: none;
+}

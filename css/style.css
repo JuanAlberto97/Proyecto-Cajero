@@ -1,0 +1,26 @@
+body{
+    background: white;
+}
+
+.username{
+    margin: 5px;
+}
+
+#alerta1{
+    color: red;
+    width: 300px;
+    display: none;
+}
+
+#login-box{
+    background-color: white;
+    margin-top: 100px;
+    width: 370px;
+}
+
+#login{
+    margin-top: 15px;
+    width: 50%;
+    height: auto;
+    margin-left: 25%;
+}
